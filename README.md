@@ -70,11 +70,11 @@ clounada_proxy/
 ```
 
 ### Поддерживаемые сервисы
-Проект настроен для работы со следующими сервисами:
-OpenAI (ChatGPT, API)
-Anthropic (Claude)
-GitHub Copilot
-JetBrains AI
-Spotify
-Telegram
+- Проект настроен для работы со следующими сервисами:
+- OpenAI (ChatGPT, API)
+- Anthropic (Claude)
+- GitHub Copilot
+- JetBrains AI
+- Spotify
+- Telegram
 И другие (смотрите hosts/custom_hosts.txt)
