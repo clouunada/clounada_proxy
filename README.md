@@ -54,7 +54,7 @@ cd cli_client
 python main.py
 ```
 
-###Структура проекта
+### Структура проекта
 ```text
 
 clounada_proxy/
