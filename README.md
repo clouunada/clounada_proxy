@@ -5,11 +5,11 @@ CLI-клиент для работы с ИИ-сервисами (ChatGPT, Claude
 А так же, если у вас есть друзья, что далеки от it, а играть в разные игры хочется, то поставьте им его.
 ## Возможности
 
-- ✅ Доступ к ChatGPT, Claude, GitHub Copilot без VPN
-- ✅ Не требует установки дополнительного ПО
-- ✅ Работает через файл `hosts` + SNI Proxy
-- ✅ Удобный терминальный интерфейс
-- ✅ Потоковая передача ответов (текст появляется по мере генерации)
+-  Доступ к ChatGPT, Claude, GitHub Copilot без VPN
+-  Не требует установки дополнительного ПО
+-  Работает через файл `hosts` + SNI Proxy
+-  Удобный терминальный интерфейс
+-  Потоковая передача ответов (текст появляется по мере генерации)
 
 ## Как это работает
 
@@ -30,11 +30,11 @@ CLI-клиент для работы с ИИ-сервисами (ChatGPT, Claude
 ```bash
 cd scripts
 sudo bash apply_hosts.sh
-
+```
 ### 2. Установите зависимости
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3. Настройте API-ключ
 Создайте файл .env в папке cli_client с содержимым:
 OPENAI_API_KEY=ваш_ключ_api
@@ -42,16 +42,17 @@ OPENAI_API_KEY=ваш_ключ_api
 # Windows
 ```bash
 set OPENAI_API_KEY=ваш_ключ_api
+```
 
-```bash
 # Linux/macOS
+bash
 export OPENAI_API_KEY=ваш_ключ_api
-
+```
 ### Запустите клиент
 ```bash
 cd cli_client
 python main.py
-
+```
 
 
 
@@ -76,4 +77,4 @@ GitHub Copilot
 JetBrains AI
 Spotify
 Telegram
-И другие (см. hosts/custom_hosts.txt)
+И другие (смотрите hosts/custom_hosts.txt)
