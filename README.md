@@ -45,7 +45,7 @@ set OPENAI_API_KEY=ваш_ключ_api
 ```
 
 # Linux/macOS
-bash
+```bash
 export OPENAI_API_KEY=ваш_ключ_api
 ```
 ### Запустите клиент
