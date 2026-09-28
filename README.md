@@ -32,6 +32,7 @@ cd scripts
 sudo bash apply_hosts.sh
 
 ### 2. Установите зависимости
+```bash
 pip install -r requirements.txt
 
 ### 3. Настройте API-ключ
@@ -39,12 +40,15 @@ pip install -r requirements.txt
 OPENAI_API_KEY=ваш_ключ_api
 или установите переменную окружения:
 # Windows
+```bash
 set OPENAI_API_KEY=ваш_ключ_api
 
+```bash
 # Linux/macOS
 export OPENAI_API_KEY=ваш_ключ_api
 
 ### Запустите клиент
+```bash
 cd cli_client
 python main.py
 
