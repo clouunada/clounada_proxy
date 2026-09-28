@@ -54,9 +54,9 @@ cd cli_client
 python main.py
 ```
 
-
-
 ###Структура проекта
+```text
+
 clounada_proxy/
 ├── cli_client/           # Код CLI-клиента
 │   ── main.py          
@@ -67,7 +67,7 @@ clounada_proxy/
 │   └── remove_hosts.bat 
 ├── requirements.txt     # Зависимости Python
 ── README.md           # Документация
-
+```
 
 ###Поддерживаемые сервисы
 Проект настроен для работы со следующими сервисами:
