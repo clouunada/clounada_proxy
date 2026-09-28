@@ -1,0 +1,97 @@
+#Roblox
+18.65.39.105 tr.rbxcdn.com
+
+# OpenAI
+193.233.112.68 chatgpt.com
+193.233.112.68 ab.chatgpt.com
+193.233.112.68 auth.openai.com
+193.233.112.67 auth0.openai.com
+193.233.112.68 platform.openai.com
+193.233.112.68 cdn.oaistatic.com
+193.233.112.68 files.oaiusercontent.com
+193.233.112.68 tcr9i.chat.openai.com
+193.233.112.68 webrtc.chatgpt.com
+193.233.112.68 android.chat.openai.com
+193.233.112.68 api.openai.com
+193.233.112.67 operator.chatgpt.com
+193.233.112.67 sora.chatgpt.com
+193.233.112.68 videos.openai.com
+193.233.112.68 ios.chat.openai.com
+193.233.112.68 cdn.platform.openai.com
+193.233.112.68 developers.openai.com
+193.233.112.68 sdmntprukwest.oaiusercontent.com
+193.233.112.68 sdmntpritalynorth.oaiusercontent.com
+193.233.112.68 sdmntprpolandcentral.oaiusercontent.com
+193.233.112.68 sdmntprnortheu.oaiusercontent.com
+
+# Spotify
+193.233.112.68 api.spotify.com
+193.233.112.68 login5.spotify.com
+193.233.112.68 encore.scdn.co
+193.233.112.68 gew1-spclient.spotify.com
+193.233.112.68 spclient.wg.spotify.com
+193.233.112.68 api-partner.spotify.com
+193.233.112.68 aet.spotify.com
+193.233.112.68 www.spotify.com
+193.233.112.68 accounts.spotify.com
+193.233.112.68 open.spotify.com
+193.233.112.68 accounts.scdn.co
+193.233.112.68 gew1-dealer.spotify.com
+193.233.112.68 www-growth.scdn.co
+
+# GitHub Copilot
+103.137.248.179 api.github.com
+193.233.112.68 api.individual.githubcopilot.com
+193.233.112.68 proxy.individual.githubcopilot.com
+
+# JetBrains
+193.233.112.68 datalore.jetbrains.com
+193.233.112.68 plugins.jetbrains.com
+193.233.112.68 download.jetbrains.com
+193.233.112.67 api.jetbrains.ai
+193.233.112.68 account.jetbrains.com
+
+# Claude
+193.233.112.68 claude.ai
+193.233.112.68 console.anthropic.com
+193.233.112.68 api.anthropic.com
+193.233.112.68 platform.claude.com
+193.233.112.68 a.claude.ai
+
+#Freebuff
+216.24.57.7    freebuff.com
+216.24.57.7    www.freebuff.com
+216.24.57.7    codebuff.com
+216.24.57.7    www.codebuff.com
+
+# --- Telegram Web & Core Domains ---
+149.154.167.220    telegram.org
+149.154.167.220    web.telegram.org
+149.154.167.220    api.telegram.org
+149.154.167.220    t.me
+149.154.167.220    telegram.me
+149.154.167.220    telegram.dog
+149.154.167.220    telegram.space
+149.154.167.220    tg.dev
+149.154.167.220    telesco.pe
+149.154.167.220    td.telegram.org
+149.154.167.220    osx.telegram.org
+149.154.167.220    kws1.web.telegram.org
+149.154.167.220    kws2.web.telegram.org
+149.154.167.220    kws1-1.web.telegram.org
+149.154.167.220    kws2-1.web.telegram.org
+149.154.167.220    pluto.web.telegram.org
+149.154.167.220    flora.web.telegram.org
+149.154.167.220    venus.web.telegram.org
+149.154.167.220    zws1.web.telegram.org
+149.154.167.220    zws2.web.telegram.org
+
+# --- Telegram Data Centers (DC) ---
+# DC1
+149.154.175.50     dc1.telegram.org
+# DC2
+149.154.167.51     dc2.telegram.org
+# DC4
+149.154.167.220    dc4.telegram.org
+# DC5
+91.108.56.130      dc5.telegram.org
