@@ -30,3 +30,46 @@ CLI-клиент для работы с ИИ-сервисами (ChatGPT, Claude
 ```bash
 cd scripts
 sudo bash apply_hosts.sh
+
+### 2. Установите зависимости
+pip install -r requirements.txt
+
+### 3. Настройте API-ключ
+Создайте файл .env в папке cli_client с содержимым:
+OPENAI_API_KEY=ваш_ключ_api
+или установите переменную окружения:
+# Windows
+set OPENAI_API_KEY=ваш_ключ_api
+
+# Linux/macOS
+export OPENAI_API_KEY=ваш_ключ_api
+
+### Запустите клиент
+cd cli_client
+python main.py
+
+
+
+
+###Структура проекта
+clounada_proxy/
+├── cli_client/           # Код CLI-клиента
+│   ── main.py          
+├── hosts/               # Модифицированные файлы hosts
+│   └── custom_hosts.txt 
+├── scripts/             # Скрипты автоматизации
+│   ├── apply_hosts.bat  
+│   └── remove_hosts.bat 
+├── requirements.txt     # Зависимости Python
+── README.md           # Документация
+
+
+###Поддерживаемые сервисы
+Проект настроен для работы со следующими сервисами:
+OpenAI (ChatGPT, API)
+Anthropic (Claude)
+GitHub Copilot
+JetBrains AI
+Spotify
+Telegram
+И другие (см. hosts/custom_hosts.txt)
